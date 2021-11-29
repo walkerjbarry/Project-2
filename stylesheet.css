@@ -1,0 +1,25 @@
+#stairs{
+	
+	height:  150px;
+	width: 200px;
+}
+
+.container-top{
+	background-color: rgb(255, 255, 200);
+}
+
+.container-middle{
+	background-color:rgb(255,161,160);
+}
+
+.container-middle-2{
+	background-color: rgb(71, 159, 195);
+}
+
+.container-bottom{
+	background-color: rgb(74,161,160);
+}
+
+.Sample_1{
+	font-size: x-large;
+}
